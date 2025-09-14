@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-09-14": 102,
+      "2025-09-14": 1377,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
@@ -388,18 +388,19 @@
     "url": "https://al1almasi.ir",
     "icon": "https://icons.duckduckgo.com/ip3/al1almasi.ir.ico",
     "slug": "al1almasi-ir",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 362,
-    "timeDay": 261,
-    "timeWeek": 289,
-    "timeMonth": 340,
+    "timeDay": 246,
+    "timeWeek": 282,
+    "timeMonth": 336,
     "timeYear": 344,
     "dailyMinutesDown": {
+      "2025-09-14": 0,
       "2025-07-14": 79
     }
   }
