@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 291,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-10-10": 98,
+      "2025-10-11": 86,
+      "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -379,8 +380,7 @@
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
-      "2024-10-12": 1440,
-      "2024-10-11": 1440
+      "2024-10-12": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/al1almasi.ir.ico",
     "slug": "al1almasi-ir",
     "status": "down",
-    "uptime": "95.77%",
+    "uptime": "95.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.83%",
-    "uptimeYear": "94.97%",
+    "uptimeMonth": "36.57%",
+    "uptimeYear": "94.70%",
     "time": 363,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 365,
+    "timeMonth": 372,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2025-10-10": 98,
+      "2025-10-11": 86,
+      "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
